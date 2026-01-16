@@ -10,10 +10,6 @@ dependencies = [
     "pandas",
     "streamlit",
     "dash",
-    "plotly",
     "dash-ag-grid",
     "dash-bootstrap-components"
 ]
-
-[tool.setuptools.packages.find]
-where = ["."]
