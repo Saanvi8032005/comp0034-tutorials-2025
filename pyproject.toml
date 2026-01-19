@@ -11,5 +11,8 @@ dependencies = [
     "streamlit",
     "dash",
     "dash-ag-grid",
-    "dash-bootstrap-components"
+    "dash-bootstrap-components",
+    "openpyxl",
+    "fastapi",
+    "uvicorn"
 ]
